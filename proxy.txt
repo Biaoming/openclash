@@ -1,1 +1,2 @@
 DOMAIN,docker.com
+DOMAIN,rss.rss-node.com
